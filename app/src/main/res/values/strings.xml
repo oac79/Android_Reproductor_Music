@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mp3</string>
+
+    <string-array name="music">
+        <item>rosalia</item>
+        <item>thesmithscatorce</item>
+        <item>thesmithscinco</item>
+        <item>thesmithscuatro</item>
+        <item>thesmithsdieciseis</item>
+    </string-array>
+</resources>
